@@ -1,0 +1,4 @@
+.service-card:hover .service-icon {
+  color: #cde1f8; /* Couleur de l'icône au survol */
+  transition: color 0.3s ease;
+}
